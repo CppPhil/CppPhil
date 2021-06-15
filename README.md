@@ -13,3 +13,8 @@ knowledge.
 
 - exciting new C++20 features such as modules, ranges, concepts, and coroutines
 - Mandarin Chinese. 我学中文学了两年了，但是我只能说一点儿，哈哈。我是德国人，我觉得中文很难，但是我非常感兴趣中国的文化和中国的历史。
+
+
+### 📫 How to reach me?
+- [Twitter](https://twitter.com/PSchackier)
+- [LinkedIn](https://www.linkedin.com/in/phillip-schackier-2a9781214/)
