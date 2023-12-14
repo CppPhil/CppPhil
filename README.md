@@ -1,7 +1,7 @@
 # Hi there! 大家好！👋
 
 I'm  _Phillip Schackier_. I hold a Bachelor's degree in Applied Computer Science from the Hamburg University of Applied Sciences.
-I'm a software developer with over 8 years of experience predominantly programming in C and C++. I'm enthusiastic about modern C++ and love to share my
+I'm a software developer with over 10 years of experience predominantly programming in C and C++. I'm enthusiastic about modern C++ and love to share my
 knowledge.
 
 ### 🔭 I’m currently working on ...
